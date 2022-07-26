@@ -1,1 +1,2 @@
 Hello its my first line in git
+now its my second line
